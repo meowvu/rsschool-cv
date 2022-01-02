@@ -6,6 +6,7 @@
 **Phone:** +375293453386
 
 **Email:** k.angelika24.01@gmail.com
+
 ----
 ## About me
 
@@ -17,7 +18,9 @@ Active and creative person. Interesting in math and physics. Like numerous handc
 * HTML5
 * CSS
 * Basic C++ 
-----
+
+====
+
 ## Education 
 Belarussian state University of Informatics and Radioelectronics
 ----
