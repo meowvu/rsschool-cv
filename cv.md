@@ -6,8 +6,8 @@
 **Phone:** +375293453386
 
 **Email:** k.angelika24.01@gmail.com
+===
 
-----
 ## About me
 
 Active and creative person. Interesting in math and physics. Like numerous handcrafts like knitting, stiching ahd painting. Have an experience as a museum-guide and event-orginizer.
@@ -19,7 +19,7 @@ Active and creative person. Interesting in math and physics. Like numerous handc
 * CSS
 * Basic C++ 
 
-====
+
 
 ## Education 
 Belarussian state University of Informatics and Radioelectronics
