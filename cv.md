@@ -1,10 +1,10 @@
 ## rsschool-cv
 # Angelika Kotovich
-----
 ## Contacts:
 
 
 **Phone:** +375293453386
+
 **Email:** k.angelika24.01@gmail.com
 ----
 ## About me
@@ -18,12 +18,16 @@ Active and creative person. Interesting in math and physics. Like numerous handc
 * CSS
 * Basic C++ 
 ----
+## Education 
+Belarussian state University of Informatics and Radioelectronics
+----
 ## Languages
 
 * English A2(epam test)
 * Belarussian - native
 * Russian - native
 * Polish B2
+
 
 
 
