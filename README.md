@@ -1,2 +1,1 @@
-https://meowvu.github.io/rsschool-cv/
-
+https://meowvu.github.io/rsschool-cv/index
